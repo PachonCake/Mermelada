@@ -29,7 +29,7 @@ body {
 }
 .window {
     position: fixed;
-    border: solid #805b70 3px;
+    border: solid #1BBAA9 3px;
     border-radius: 0;
     overflow: hidden;
     background: transparent;
@@ -102,7 +102,7 @@ body {
     padding: 0px;
     padding-left: 3px;
     font-size: 16px;
-    border-bottom: #805b70 solid 2px;
+    border-bottom: #1BBAA9 solid 2px;
     z-index: 7;
     user-select: none;
 }
@@ -208,7 +208,7 @@ body {
     left: 0px;
     height: 100%;
     background: #000;
-    border-right: #558 solid 3px;
+    border-right: #5a8c9d solid 3px;
     color: #ffb6df;
     transition: all 550ms ease;
     padding-left: 2px;
