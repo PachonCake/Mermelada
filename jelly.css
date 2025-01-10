@@ -29,11 +29,11 @@ body {
 }
 .window {
     position: fixed;
-    border: solid #1BBAA9 3px;
+    border: solid #157e74 3px;
     border-radius: 0;
     overflow: hidden;
     background: transparent;
-    box-shadow: 4px 4px 12px rgba(0, 210, 180, 0.8);
+    box-shadow: 4px 4px 12px rgba(0, 210, 180, 0.4);
     top: 20px;
     bottom: 20px;
     right: 10px;
@@ -46,7 +46,7 @@ body {
     height: 100% - 5px;
     width: 100%;
     position: relative;
-    background: linear-gradient(to bottom right, #a595a7, #a595a7, #232323, #222222, #212121, #202020, #191919, #181818, #171717, #161616, #151515, #141414, #131313, #121212, #111111, #101010, #0f0f0f, #0e0e0e, #0d0d0d, #0c0c0c, #0b0b0b, #0a0a0a, #090909, #080808, #070707, #060606, #050505, #040404, #030303, #020202, #010101, #000, #000, #000, #000, #000, #000, #000, #000, #000, #000, #000, #100010, #805b70, #c070a8, #ffb6df);
+    background: #000;
     border-radius: 0%;
     padding: 0;
     overflow-y: auto;
@@ -102,7 +102,7 @@ body {
     padding: 0px;
     padding-left: 3px;
     font-size: 16px;
-    border-bottom: #1BBAA9 solid 2px;
+    border-bottom: #157e74 solid 2px;
     z-index: 7;
     user-select: none;
 }
