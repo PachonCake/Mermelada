@@ -135,7 +135,7 @@ body {
     background: #111;
     flex-wrap: wrap;
     z-index: 7;
-    border-top: solid #805b70 3px;
+    border-top: solid #157e74 3px;
 }
 .footer .menu label{
     display: inline;
@@ -208,7 +208,7 @@ body {
     left: 0px;
     height: 100%;
     background: #000;
-    border-right: #5a8c9d solid 3px;
+    border-right: #157e74 solid 3px;
     color: #ffb6df;
     transition: all 550ms ease;
     padding-left: 2px;
